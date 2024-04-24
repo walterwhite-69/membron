@@ -10,7 +10,7 @@ Educational: Intended for educational purposes to understand how viruses work an
 Demonstrative: Membron illustrates how seemingly harmless code can be manipulated to perform malicious actions.
 
 ## Warning
-Even its non destructive its still going to cause a BSOD(Blue Screen Of Death)
+Even its non destructive its still going to cause a BSOD(Blue Screen Of Death). So make sure to use virtual machine 
 
 ## Note
 There is a class called MBR. Basically it should override your MBR(Master Boot Record). But I removed it since its a non destructive virus.
