@@ -12,9 +12,9 @@ Demonstrative: Membron illustrates how seemingly harmless code can be manipulate
 ## Warning
 Even its non destructive its still going to cause a BSOD(Blue Screen Of Death). So make sure to use virtual machine 
 
-## Note
-There is a class called MBR. Basically it should override your MBR(Master Boot Record). But I removed it since its a non destructive virus.
-Your PC wont able to boot up again if i had add the MBR replace code
+## Note 
+
+There is a class called MBR. Basically, it should override your MBR (Master Boot Record). However, I removed it since it's a non-destructive virus. Your PC won't be able to boot up again if I had added the MBR replacement code.
 
 ## Disclaimer
 This project is for educational and research purposes only. Deploying Membron on systems without proper authorization is illegal and unethical. The creator of Membron holds no responsibility for any misuse of this software.
